@@ -1,5 +1,5 @@
-title:            Blog Title
-description:      Describe your website here.
+title:            PengTong's Blog
+description:      记录点点滴滴.
 disqus_shortname: neohpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -28,11 +28,11 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
+  name:           彭通
+  site:           http://sunhanpt.github.io
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "目前从事ios开发，擅长c/c++， object-c"
+  email:          pengt047@163.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: aron_bordin
   facebook:
@@ -47,11 +47,11 @@ owner:
 
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: 
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
+    url: 
   - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: 
 # Background image to be tiled on all pages
 background:
 
